@@ -3,9 +3,7 @@
 
 run it on http://www.codeskulptor.org/
 
-<p align="center">
-	<img src="images/Tic-Tac-Toe.png"></img>
-</p>
+![alt text](images/15puzzle.png)
 
 * wikipedia: <https://en.wikipedia.org/wiki/Minimax>
 enjoy it!!!
