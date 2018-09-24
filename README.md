@@ -3,7 +3,7 @@
 
 run it on http://www.codeskulptor.org/
 
-![alt text](images/15puzzle.png)
+![alt text](images/Tic-Tac-Toe.png)
 
 * wikipedia: <https://en.wikipedia.org/wiki/Minimax>
 
