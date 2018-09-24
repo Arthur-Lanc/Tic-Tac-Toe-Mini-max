@@ -6,5 +6,6 @@ run it on http://www.codeskulptor.org/
 ![alt text](images/15puzzle.png)
 
 * wikipedia: <https://en.wikipedia.org/wiki/Minimax>
+
 enjoy it!!!
 :rocket:
